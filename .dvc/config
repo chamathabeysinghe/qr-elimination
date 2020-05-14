@@ -1,0 +1,4 @@
+[core]
+    remote = local
+['remote "local"']
+    url = /Users/chamathabeysinghe/Projects/monash/data-repo/qr-elimination
