@@ -57,12 +57,14 @@ dependencies:
     - grpcio==1.29.0
     - h5py==2.10.0
     - idna==2.9
+    - imageio==2.8.0
     - importlib-metadata==1.6.0
     - keras-preprocessing==1.1.2
     - markdown==3.2.2
     - numpy==1.18.4
     - oauthlib==3.1.0
     - opt-einsum==3.2.1
+    - pillow==7.1.2
     - protobuf==3.11.3
     - pyasn1==0.4.8
     - pyasn1-modules==0.2.8
@@ -72,6 +74,7 @@ dependencies:
     - scipy==1.4.1
     - tensorboard==2.2.1
     - tensorboard-plugin-wit==1.6.0.post3
+    - tensorflow==2.2.0
     - tensorflow-estimator==2.2.0
     - termcolor==1.1.0
     - urllib3==1.25.9
