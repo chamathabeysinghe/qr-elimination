@@ -1,0 +1,7 @@
+md5: 7afd4a4b99a66d94e7ce9d64d7bbcfe3
+outs:
+- md5: ec2a3f438a522be559558bb47e42f18b.dir
+  path: qr_embeded_dataset
+  cache: true
+  metric: false
+  persist: false
