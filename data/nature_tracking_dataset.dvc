@@ -1,0 +1,7 @@
+md5: b099a08c9b2ee2afba67b4595652660b
+outs:
+- md5: bba290dafab92e9cce0b78735cadfeb4.dir
+  path: nature_tracking_dataset
+  cache: true
+  metric: false
+  persist: false
